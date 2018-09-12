@@ -10,6 +10,7 @@ class Printer
     const MEDIA_LETTER = 'Letter'; // US Letter (8.5x11 inches, or 216x279mm)
     const MEDIA_LEGAL = 'Legal'; // US Legal (8.5x14 inches, or 216x356mm)
     const MEDIA_A4 = 'A4'; // ISO A4 (8.27x11.69 inches, or 210x297mm)
+    const MEDIA_A6 = 'A6'; // ISO A6 (4.1x5.8 inches, or 105x148mm)
     const MEDIA_COM10 = 'COM10'; // US #10 Envelope (9.5x4.125 inches, or 241x105mm)
     const MEDIA_DL = 'DL'; // ISO DL Envelope (8.66x4.33 inches, or 220x110mm)
     const MEDIA_TRANSPARENCY = 'Transparency'; // Transparency media type or source
