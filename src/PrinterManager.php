@@ -99,7 +99,7 @@ class PrinterManager
      * @param string $id
      * @return Printer
      */
-    protected function buildPrinter($id)
+    public function buildPrinter($id)
     {
         return new Printer($id, $this->cli);
     }
